@@ -1,1 +1,4 @@
 # FASHION-MNIST-CLASSIFICATION
+Fashion MNIST classification is a machine learning task that involves classifying items of clothing and accessories. The Fashion MNIST dataset, created as an alternative to the classic MNIST digit dataset, consists of 70,000 grayscale images (60,000 for training and 10,000 for testing) of fashion items across 10 categories: T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, and Ankle boot. Each image is 28x28 pixels.
+
+This dataset is widely used for testing and benchmarking machine learning algorithms, particularly in deep learning and convolutional neural networks (CNNs). Fashion MNIST is popular because it’s more challenging and representative of real-world applications compared to handwritten digit recognition, pushing models to develop better feature extraction and classification capabilities.
